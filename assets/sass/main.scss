@@ -177,7 +177,8 @@
 	}
 
 	.button-facebook {
-		@include vendor('background-image', 'linear-gradient(top, #ed391b, #ce1a00)');
+		/*@include vendor('background-image', 'linear-gradient(top, #ed391b, #ce1a00)');*/
+		@include vendor('background-image', 'linear-gradient(top, #3b5998, #3b5998)');
 		display: inline-block;
 		/*background-color: #ed391b;*/
 		background-color: #3b5998;
@@ -200,7 +201,8 @@
 		}
 
 		&:active {
-			@include vendor('background-image', 'linear-gradient(top, #ce1a00, #ed391b)');
+			/*@include vendor('background-image', 'linear-gradient(top, #ce1a00, #ed391b)');*/
+			@include vendor('background-image', 'linear-gradient(top, #3b5998, #3b5998)');
 			/*background-color: #ce1a00;*/
 			background-color: #3b5998;
 			box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.75), inset 0px 2px 0px 0px rgba(255, 192, 192, 0.5), inset 0px 0px 0px 2px rgba(255, 96, 96, 0.85), 3px 3px 3px 1px rgba(0, 0, 0, 0.15);
