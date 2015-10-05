@@ -177,6 +177,7 @@
 	}
 
 	.button-facebook {
+		font-family: 'Lucida Grande';
 		/*@include vendor('background-image', 'linear-gradient(top, #ed391b, #ce1a00)');*/
 		@include vendor('background-image', 'linear-gradient(top, #3b5998, #3b5998)');
 		display: inline-block;
