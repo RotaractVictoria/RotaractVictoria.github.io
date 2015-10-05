@@ -176,7 +176,7 @@
 		}
 	}
 
-	.button-small-1 {
+	.button-big {
 		@include vendor('background-image', 'linear-gradient(top, #ed391b, #ce1a00)');
 		display: inline-block;
 		background-color: #ed391b;
@@ -511,7 +511,7 @@
 				margin: 0 0 1em 0;
 			}
 
-			.button-small-1 {
+			.button-big {
 				font-size: 1.5em;
 				padding: 10px 20px 10px 20px;
 			}
@@ -601,7 +601,7 @@
 				}
 			}
 
-			.button-small-1 {
+			.button-big {
 				font-size: 1.5em;
 				padding: 10px 20px 10px 20px;
 			}
