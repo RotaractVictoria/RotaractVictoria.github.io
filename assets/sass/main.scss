@@ -176,7 +176,7 @@
 		}
 	}
 
-	.button-big {
+	.button-facebook {
 		@include vendor('background-image', 'linear-gradient(top, #ed391b, #ce1a00)');
 		display: inline-block;
 		background-color: #ed391b;
@@ -203,7 +203,7 @@
 		}
 	}
 	
-	/*.button-small-2 {
+	.button-twitter {
 		@include vendor('background-image', 'linear-gradient(top, #ed391b, #ce1a00)');
 		display: inline-block;
 		background-color: #ed391b;
@@ -228,7 +228,7 @@
 			background-color: #ce1a00;
 			box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.75), inset 0px 2px 0px 0px rgba(255, 192, 192, 0.5), inset 0px 0px 0px 2px rgba(255, 96, 96, 0.85), 3px 3px 3px 1px rgba(0, 0, 0, 0.15);
 		}
-	}*/
+	}
 
 /* Content */
 
@@ -511,14 +511,14 @@
 				margin: 0 0 1em 0;
 			}
 
-			.button-big {
+			.button-facebook {
 				font-size: 1.5em;
 				padding: 10px 20px 10px 20px;
 			}
-			/*.button-small-2 {
+			.button-twitter {
 				font-size: 1.5em;
 				padding: 10px 20px 10px 20px;
-			}*/
+			}
 
 		/* Banner */
 
@@ -601,14 +601,14 @@
 				}
 			}
 
-			.button-big {
+			.button-facebook {
 				font-size: 1.5em;
 				padding: 10px 20px 10px 20px;
 			}
-			/*.button-small-2 {
+			.button-twitter {
 				font-size: 1.5em;
 				padding: 10px 20px 10px 20px;
-			}*/
+			}
 
 		/* Wrappers */
 			#header-wrapper {
