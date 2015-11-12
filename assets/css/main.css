@@ -2344,13 +2344,13 @@
 		#header h1 {
 			padding: 0 0 2.75em 0;
 			margin: 0;
+			color: #d91b5c;
 		}
 
 			#header h1 a {
 				font-size: 1.5em;
 				letter-spacing: -0.025em;
 				border: 0;
-				color: #d91b5c;
 			}
 
 	#nav {
