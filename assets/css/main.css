@@ -2767,11 +2767,11 @@
 				}
 
 			.box.post .inner {
-				margin-left: calc(20% + 2em);
+				margin-left: calc(30% + 2em);
 			}
 
 			.box.post .image {
-				width: 20%;
+				width: 30%;
 			}
 
 		/* Header */
