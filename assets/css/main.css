@@ -3156,3 +3156,7 @@
 			}
 
 	}
+
+	#sidebar{
+		position:fixed;
+	}
