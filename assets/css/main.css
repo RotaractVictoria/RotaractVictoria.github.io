@@ -243,6 +243,10 @@
 
 /* Grid */
 
+	.sidebar {
+   		position: fixed;
+	}
+
 	.row {
 		border-bottom: solid 1px transparent;
 		-moz-box-sizing: border-box;
