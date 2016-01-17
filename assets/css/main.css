@@ -3160,3 +3160,7 @@
 	#sidebar{
 		position:fixed;
 	}
+
+	#links{
+		line-height: 100%;
+	}
