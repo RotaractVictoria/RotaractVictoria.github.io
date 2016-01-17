@@ -3159,10 +3159,8 @@
 
 	#sidebar{
 		position:fixed;
-		width: 0.3em;
-		height: 0.7em;
 	}
 
 	#links{
-		line-height: 100%;
+		line-height: 0.7em;
 	}
